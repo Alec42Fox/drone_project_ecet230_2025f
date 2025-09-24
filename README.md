@@ -2,9 +2,9 @@
 ## Goals
 * Make a single propelled drone that hovers at a specific height and can get back to that height when outside forces act on it.
 ## Team Members
-* Alec Fox
-* Angelo McNeill
-* Cristian D. Garcia S.
+* Alec Fox - Programming
+* Angelo McNeill - CAD Design
+* Cristian D. Garcia S. - PCB Design
 ## Tools and Technologies
 * Fusion 360 - 3D Design
 * KiCad - PCB Design
