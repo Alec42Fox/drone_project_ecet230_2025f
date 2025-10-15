@@ -69,7 +69,7 @@ void loop() {
       Serial.println(distance.RangeMilliMeter);
 
         if (distance.RangeMilliMeter <= 200) {
-          speedCon.writeMicroseconds(1200);
+          speedCon.writeMicroseconds(1300);
           digitalWrite(WHITE, HIGH);
           digitalWrite(YELLOW, LOW);
           digitalWrite(BLUE, LOW);
