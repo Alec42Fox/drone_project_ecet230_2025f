@@ -1,4 +1,0 @@
-(fp_lib_table
-  (version 7)
-  (lib (name "LibraryHMS_FSymbols_Library")(type "KiCad")(uri "${KIPRJMOD}/LibraryHMS_FSymbols_Library.pretty")(options "")(descr ""))
-)
