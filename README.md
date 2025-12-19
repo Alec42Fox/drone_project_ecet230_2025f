@@ -1,4 +1,5 @@
 # ECET - 230 - 001 - HMS (Height Maintenance System)
+[![EMBEDDED YT VIDEO OF DRONE HERE](https://youtu.be/sBg5eHK91Yk)
 ## Goals
 * Make a single propelled drone that hovers at a specific height and can get back to that height when outside forces act on it.
 ## Team Members
