@@ -1,5 +1,6 @@
 # ECET - 230 - 001 - HMS (Height Maintenance System)
 * video of the prototype in action (fixed to a single axis)
+* 
 [![Watch the video](http://img.youtube.com/vi/sBg5eHK91Yk/0.jpg)](https://youtu.be/sBg5eHK91Yk)
 
 ## Goals
